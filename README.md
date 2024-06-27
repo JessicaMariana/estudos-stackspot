@@ -1,0 +1,2 @@
+# estudos-stackspot
+Projeto pessoal
